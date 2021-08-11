@@ -1,3 +1,4 @@
+/*
 package com.nappy.Book2.Chapter11;
 
 import java.util.*;
@@ -51,3 +52,4 @@ public class MyVector2 extends MyVector implements Iterator{
         }
     }
 }
+*/
